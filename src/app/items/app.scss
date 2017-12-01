@@ -1,0 +1,23 @@
+section {
+  min-height: 98vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+  overflow: auto;
+}
+
+.footer {
+  height: 32px;
+}
+
+img {
+  height: 42px;
+
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
